@@ -31,7 +31,7 @@ This project is a web-based QR Code Generator implemented using HTML, CSS, and J
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/qr-code-generator.git
+    git clone https://github.com/Omar-Ebrahim-1/qr-code-generator.git
     ```
 
 2. Navigate to the project directory:
